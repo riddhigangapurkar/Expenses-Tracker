@@ -21,4 +21,4 @@ Matplotlib – Pie chart visualization
  ┣ 📜 expenses.db      # SQLite database (auto-created if not present)
  ┗ 📜 README.md        # Project documentation
 
- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2bd655c4-5065-4b27-b859-f8ccb74eb06c" />
+ <img width="1920" height="1080" alt="image" src="screenshort.png" />
